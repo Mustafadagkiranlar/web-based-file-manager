@@ -17,7 +17,6 @@ setup(
     description="Web based file browser",
     license="MIT",
     install_requires=[
-        "browsepy==0.5.6",
-        "appdirs == 1.4.4"
+        "flask==2.2.2",
     ],
 )
